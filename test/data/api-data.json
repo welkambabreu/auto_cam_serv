@@ -1,0 +1,25 @@
+{
+  "admin": {
+    "email": "admin@escola.com",
+    "senha": "admin123"
+  },
+  "aluno": {
+    "nome": "Aluno do Teste",
+    "emailPrefixo": "aluno-teste",
+    "dominio": "@example.com",
+    "matriculaPrefixo": "TESTE-",
+    "senha": "aluno123"
+  },
+  "trabalhos": [
+    {
+      "disciplinaId": "disciplina-matematica",
+      "titulo": "Trabalho de Integração",
+      "descricao": "Entrega criada pelo teste automatizado."
+    },
+    {
+      "disciplinaId": "disciplina-matematica",
+      "titulo": "Trabalho de Integração - Segunda Entrega",
+      "descricao": "Segunda entrega criada pelo teste data-driven."
+    }
+  ]
+}
